@@ -1,0 +1,7 @@
+C:\Users\Uzytkownik\source\repos\DayOfBirthApp\bin\Release\net5.0\publish\DayOfBirthApp.exe
+C:\Users\Uzytkownik\source\repos\DayOfBirthApp\bin\Release\net5.0\publish\DayOfBirthApp.dll
+C:\Users\Uzytkownik\source\repos\DayOfBirthApp\bin\Release\net5.0\publish\DayOfBirthApp.deps.json
+C:\Users\Uzytkownik\source\repos\DayOfBirthApp\bin\Release\net5.0\publish\DayOfBirthApp.runtimeconfig.json
+C:\Users\Uzytkownik\source\repos\DayOfBirthApp\bin\Release\net5.0\publish\DayOfBirthApp.pdb
+C:\Users\Uzytkownik\source\repos\DayOfBirthApp\bin\Release\net5.0\publish\DayOfBirth.Core.dll
+C:\Users\Uzytkownik\source\repos\DayOfBirthApp\bin\Release\net5.0\publish\DayOfBirth.Core.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DayOfBirthApp/1.0.0": {
+        "dependencies": {
+          "DayOfBirth.Core": "1.0.0"
+        },
+        "runtime": {
+          "DayOfBirthApp.dll": {}
+        }
+      },
+      "DayOfBirth.Core/1.0.0": {
+        "runtime": {
+          "DayOfBirth.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DayOfBirthApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DayOfBirth.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\bin\Debug\net5.0\DayOfBirth.Core.deps.json
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\bin\Debug\net5.0\DayOfBirth.Core.dll
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\bin\Debug\net5.0\ref\DayOfBirth.Core.dll
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\bin\Debug\net5.0\DayOfBirth.Core.pdb
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\obj\Debug\net5.0\DayOfBirth.Core.csproj.AssemblyReference.cache
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\obj\Debug\net5.0\DayOfBirth.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\obj\Debug\net5.0\DayOfBirth.Core.AssemblyInfoInputs.cache
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\obj\Debug\net5.0\DayOfBirth.Core.AssemblyInfo.cs
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\obj\Debug\net5.0\DayOfBirth.Core.csproj.CoreCompileInputs.cache
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\obj\Debug\net5.0\DayOfBirth.Core.dll
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\obj\Debug\net5.0\ref\DayOfBirth.Core.dll
+C:\Users\Uzytkownik\source\repos\DayOfBirth.Core\obj\Debug\net5.0\DayOfBirth.Core.pdb
